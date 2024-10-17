@@ -13,10 +13,8 @@
 footer{
     align-items: center;
     justify-content: center;
-    text-align: center;
     background-color: black;
     color: white;
-    font-size: 25px;
     font-weight: 800;
     padding: 10px;
     position: fixed;
@@ -26,4 +24,6 @@ footer{
 
 footer p {
 text-align: center;
-font-size: 
+font-size: 25px;
+}
+
