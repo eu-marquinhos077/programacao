@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cartao{
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid gray;
+    border-radius: 10px;
+}
+
+footer{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    font-weight: 800;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
